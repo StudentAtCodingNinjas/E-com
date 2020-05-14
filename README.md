@@ -10,7 +10,7 @@
   <li> npm install mongoose</li>
 </ul>
 
-<h2>Import the dependenciesmodules in index.js</h2>
+<h2>Import the dependencies modules in index.js</h2>
 
 <h2>Create Product Schema</h2>
 
