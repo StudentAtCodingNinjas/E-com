@@ -1,7 +1,7 @@
 #  Ecom-API
 <h1> Designed an API for Ecommerce platform to manage product inventory </h1>
 
-<h2>Create the Folder Scalable Structure</h2>
+<h2>Create the  Scalable Folder Structure</h2>
 
 <h2>Install Dependices</h2>
 <ul>
