@@ -1,0 +1,19 @@
+{
+  "name": "e-com",
+  "version": "1.0.0",
+  "description": "E-Com api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Mohammad Asif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.13"
+  }
+}
